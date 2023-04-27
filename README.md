@@ -1,2 +1,3 @@
-# Thincrs_Test1_Repo
-Mi primer repo
+# Thincrs Test1 Repo
+
+Mi primer repo en GIT
